@@ -1,10 +1,10 @@
-#Marketing Campaign Analysis using Python 
+Marketing Campaign Analysis using Python 
 
-##Objective
+Objective
 
 To perform Exploratory Data Analysis (EDA) on a marketing campaign dataset and uncover customer behavior patterns, spending trends, and purchasing preferences that can support data-driven marketing decisions.
 
-##Tools Used
+Tools Used
 
 - Python
 - Pandas
@@ -12,7 +12,7 @@ To perform Exploratory Data Analysis (EDA) on a marketing campaign dataset and u
 - Seaborn
 - Jupyter Notebook
 
-##Analysis Performed
+Analysis Performed
 
 - Data Cleaning and Validation
 - Missing Value & Duplicate Record Analysis
@@ -22,21 +22,21 @@ To perform Exploratory Data Analysis (EDA) on a marketing campaign dataset and u
 - Purchase Channel Analysis
 - Correlation Analysis
 
-##Visualizations
+Visualizations
 
-###Product Spending Analysis
+Product Spending Analysis
 <img width="1477" height="837" alt="total_spending" src="https://github.com/user-attachments/assets/600dc6e3-b99a-41f1-a26e-98b9294d920e" />
 
 
-###Purchase Channel Analysis
+Purchase Channel Analysis
 <img width="1479" height="835" alt="purchases" src="https://github.com/user-attachments/assets/a634bf46-3c93-4cca-8876-b99e30d3e60b" />
 
 
-###Correlation Heatmap
+Correlation Heatmap
 <img width="1478" height="840" alt="heatmap" src="https://github.com/user-attachments/assets/43f64e38-b601-47ae-acfe-76eb070f05fe" />
 
 
-##Key Insights
+Key Insights
 
 - Most customers belong to the moderate-income segment.
 - Customers with Master's and PhD holders recorded the highest average income levels.
@@ -45,7 +45,7 @@ To perform Exploratory Data Analysis (EDA) on a marketing campaign dataset and u
 - Middle-aged customers represented the largest customer segment.
 - Higher income levels were associated with increased spending activity.
 
-##Outcome
+Outcome
 
 This analysis transformed raw marketing data into actionable business insights, highlighting customer spending behavior, purchasing preferences, and key demographic trends. The findings can support targeted marketing strategies, improved customer engagement, and more informed business decision-making.
 
