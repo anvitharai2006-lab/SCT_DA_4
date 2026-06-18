@@ -1,4 +1,4 @@
-# 📊 Task 4: Marketing Campaign Analysis using Python
+# Task 4: Marketing Campaign Analysis using Python
 
 ## Objective
 
